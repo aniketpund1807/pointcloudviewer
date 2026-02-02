@@ -1,0 +1,6 @@
+numpy
+PyQt5
+matplotlib
+vtk
+scipy
+open3d
